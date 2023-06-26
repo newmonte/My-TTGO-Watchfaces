@@ -1,6 +1,7 @@
 # My-TTGO-Watchfaces
 
 Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
+
 This is a fork of original Sharandac TTGO TWatch Clock Faces
 
 [![black](black/watchface_theme_prev.png)](black/watchface.tar.gz)
@@ -14,9 +15,7 @@ This is a fork of original Sharandac TTGO TWatch Clock Faces
 [![undone clock](undone/watchface_theme_prev.png)](undone/watchface.tar.gz)
 
 # Here are some new faces
-
-You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) or an overview of all [watchfaces](https://sharandac.github.io/My-TTGO-Watchfaces/).
-Feel free to clone them and create yours!
+Not fully finished ....
 
 [![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
@@ -28,8 +27,14 @@ Feel free to clone them and create yours!
 [![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 
-# Other retository
 
-You can find more watch faces by looking on GitHub for [PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces).
+# Other repositories
 
+You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) 
+
+An overview of all [sharandac watchfaces repository](https://sharandac.github.io/My-TTGO-Watchfaces/). 
+
+Another good place to find more watch faces by looking on GitHub for [PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces).
+
+Feel free to clone them and create yours!
 
