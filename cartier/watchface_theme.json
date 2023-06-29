@@ -44,7 +44,7 @@
       "align": "center",
       "font_size": 16,
       "x_offset": 55,
-      "y_offset": 205,
+      "y_offset": 200,
       "x_size": 130,
       "y_size": 35
     },
@@ -52,12 +52,12 @@
       "enable": true,
       "type": "battery_percent",
       "label": "%d%%",
-      "font_color": "#D9D8DB",
-      "align": "left",
+      "font_color": "#000000",
+      "align": "center",
       "font_size": 16,
-      "x_offset": 5,
-      "y_offset": 210,
-      "x_size": 30,
+      "x_offset": 55,
+      "y_offset": 150,
+      "x_size": 130,
       "y_size": 35
     }
   ]
