@@ -44,7 +44,7 @@
       "align": "center",
       "font_size": 16,
       "x_offset": 55,
-      "y_offset": 200,
+      "y_offset": 210,
       "x_size": 130,
       "y_size": 35
     },
@@ -55,9 +55,9 @@
       "font_color": "#D9D8DB",
       "align": "center",
       "font_size": 16,
-      "x_offset": 55,
-      "y_offset": 200,
-      "x_size": 130,
+      "x_offset": 5,
+      "y_offset": 210,
+      "x_size": 30,
       "y_size": 35
     }
   ]
