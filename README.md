@@ -1,4 +1,7 @@
 # Here are some new faces
+
+Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
+
 Not fully finished ....
 
 [![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
@@ -12,8 +15,6 @@ Not fully finished ....
 [![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 
 # Original My-TTGO-Watchfaces
-
-Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
 
 This is a fork of original Sharandac TTGO TWatch Clock Faces
 
