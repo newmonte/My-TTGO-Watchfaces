@@ -1,4 +1,17 @@
-# My-TTGO-Watchfaces
+# Here are some new faces
+Not fully finished ....
+
+[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
+[![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
+[![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
+[![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
+[![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
+[![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
+[![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
+[![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
+
+# Original My-TTGO-Watchfaces
 
 Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
 
@@ -13,19 +26,6 @@ This is a fork of original Sharandac TTGO TWatch Clock Faces
 [![star trek clock](startrek/watchface_theme_prev.png)](startrek/watchface.tar.gz)
 [![swiss clock](swiss/watchface_theme_prev.png)](swiss/watchface.tar.gz)
 [![undone clock](undone/watchface_theme_prev.png)](undone/watchface.tar.gz)
-
-# Here are some new faces
-Not fully finished ....
-
-[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
-[![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
-[![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
-[![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
-[![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
-[![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
-[![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
-[![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
-[![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 
 
 # Other repositories
