@@ -18,7 +18,7 @@
   "sec": {
     "enable": true,
     "x_offset": 0,
-    "y_offset": 0
+    "y_offset": 50
   },
   "hour_shadow": {
     "enable": true,
@@ -33,7 +33,7 @@
   "sec_shadow": {
     "enable": true,
     "x_offset": 0,
-    "y_offset": 100
+    "y_offset": 50
   },
   "label": [
     {
