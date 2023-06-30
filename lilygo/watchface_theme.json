@@ -74,6 +74,20 @@
         "y_offset": 60,
         "x_size": 60,
         "y_size": 40
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "%a %d",
+        "font": "LCD",
+        "font_color": "#304e65",
+        "font_size": 32,
+        "align": "center",
+        "hide_interval": 0,
+        "x_offset": 150,
+        "y_offset": 60,
+        "x_size": 60,
+        "y_size": 40
       }
     ]
   }
