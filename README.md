@@ -8,7 +8,7 @@ Not fully finished ....
 [![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
 [![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
-[![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
+[![mini cooper](mini-cooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
 [![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 [![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
