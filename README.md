@@ -4,15 +4,15 @@ Here you can find some finish watchface packages for [My-TTGO-Watch](https://git
 
 Not fully finished ....
 
-[![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
-[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
-[![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
-[![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
-[![mini cooper](mini-cooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
-[![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
-[![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
-[![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
-[![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
+[![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
+[![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
+[![Bell Ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![Fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
+[![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
+[![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
+[![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
+[![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
+[![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 
 # Original My-TTGO-Watchfaces
 
