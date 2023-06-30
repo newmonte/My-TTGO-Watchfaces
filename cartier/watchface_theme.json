@@ -54,7 +54,7 @@
       "label": "%d%%",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 14,
+      "font_size": 12,
       "x_offset": 55,
       "y_offset": 150,
       "x_size": 130,
