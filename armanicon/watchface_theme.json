@@ -51,7 +51,7 @@
     {
       "enable": true,
       "type": "date",
-      "label": "%m.%d.",
+      "label": "%d-%m",
       "font_color": "#D9D8DB",
       "align": "center",
       "font_size": 16,

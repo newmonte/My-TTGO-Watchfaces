@@ -22,18 +22,18 @@
   },
   "hour_shadow": {
     "enable": true,
-    "x_offset": 0,
-    "y_offset": 0
+    "x_offset": 2,
+    "y_offset": 2
   },
   "min_shadow": {
     "enable": true,
-    "x_offset": 0,
-    "y_offset": 0
+    "x_offset": 2,
+    "y_offset": 2
   },
   "sec_shadow": {
     "enable": true,
-    "x_offset": -60,
-    "y_offset": 0
+    "x_offset": -62,
+    "y_offset": 2
   },
   "label": [
     {
