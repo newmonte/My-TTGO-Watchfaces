@@ -42,8 +42,8 @@
       "label": "%d",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 12,
-      "x_offset": 175,
+      "font_size": 16,
+      "x_offset": 185,
       "y_offset": 113,
       "x_size": 20,
       "y_size": 13

@@ -37,7 +37,7 @@
   },
   "label": [
     {
-      "enable": true,
+      "enable": false,
       "type": "date",
       "label": "%d",
       "font_color": "#000000",
