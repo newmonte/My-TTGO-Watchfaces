@@ -30,6 +30,12 @@
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/fossil/watchface.tar.gz"
 	},
 	{
+		"name":"Lilygo",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
+	},
+	{
 		"name":"Mini Cooper",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/minicooper",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
