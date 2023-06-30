@@ -48,21 +48,21 @@
       "x_size": 20,
       "y_size": 13
     }
-  ]
-"image": [
-	{
-		"enable": true,
-		"type": "battery_percent",
-		"file": "watchface_bat.png",
-		"hide_interval": 0,
-		"rotation_range": 100,
-		"rotation_start": 0,
-		"rotation_x_origin": 10,
-		"rotation_y_origin": 60,
-		"x_offset": 120,
-		"y_offset": 160,
-		"x_size": 20,
-		"y_size": 120
-	}
+  ],
+  "image": [
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "file": "watchface_bat.png",
+      "hide_interval": 0,
+      "rotation_range": 359,
+      "rotation_start": 0,
+      "rotation_x_origin": 10,
+      "rotation_y_origin": 60,
+      "x_offset": 120,
+      "y_offset": 160,
+      "x_size": 20,
+      "y_size": 120
+    }
   ]
 }
