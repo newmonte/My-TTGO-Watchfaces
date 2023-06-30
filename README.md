@@ -4,8 +4,8 @@ Here you can find some finish watchface packages for [My-TTGO-Watch](https://git
 
 Not fully finished ....
 
-[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
+[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
 [![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
 [![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
