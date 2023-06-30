@@ -43,7 +43,7 @@
         "font_size": 32,
         "align": "center",
         "x_offset": 180,
-        "y_offset": 120,
+        "y_offset": 121,
         "x_size": 32,
         "y_size": 32
       },
@@ -84,7 +84,7 @@
         "font_size": 32,
         "align": "center",
         "hide_interval": 0,
-        "x_offset": 150,
+        "x_offset": 140,
         "y_offset": 60,
         "x_size": 100,
         "y_size": 40
