@@ -50,14 +50,14 @@
       {
         "enable": true,
         "type": "date",
-        "label": "%C %b %y",
+        "label": "%C%y %b",
         "font": "LCD",
         "font_color": "#304e65",
         "font_size": 32,
         "align": "center",
         "hide_interval": 0,
         "x_offset": 47,
-        "y_offset": 150,
+        "y_offset": 152,
         "x_size": 155,
         "y_size": 40
       },
