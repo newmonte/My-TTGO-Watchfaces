@@ -25,7 +25,6 @@
       "enable": true,
       "type": "date",
       "label": "%a %d",
-      "label": "%d",
       "font_color": "#ffffff",
       "align": "center",
       "font_size": 32,
@@ -41,9 +40,8 @@
       "font_color": "#ffffff",
       "font_size": 12,
       "align": "center",
-      "hide_interval": 0,
       "x_offset": 100,
-      "y_offset": 200,
+      "y_offset": 180,
       "x_size": 60,
       "y_size": 40
     },
