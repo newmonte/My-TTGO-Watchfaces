@@ -24,6 +24,12 @@
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/cartier/watchface.tar.gz"
 	},
 	{
+		"name":"Contout",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/countour/watchface.tar.gz"
+	},
+	{
 		"name":"Fossil",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/fossil",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
@@ -36,7 +42,7 @@
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
 	},
 	{
-		"name":"mini cooper",
+		"name":"Mini Cooper",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/minicooper",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/minicooper/watchface.tar.gz"
