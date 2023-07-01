@@ -28,9 +28,9 @@
       "label": "%a %d",
       "font_color": "#dddddd",
       "align": "center",
-      "font_size": 22,
+      "font_size": 28,
       "x_offset": 80,
-      "y_offset": 63,
+      "y_offset": 65,
       "x_size": 80,
       "y_size": 40
     },
@@ -42,7 +42,7 @@
       "font_size": 12,
       "align": "center",
       "x_offset": 90,
-      "y_offset": 150,
+      "y_offset": 135,
       "x_size": 60,
       "y_size": 40
     }
