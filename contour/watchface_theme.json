@@ -1,4 +1,5 @@
 {
+  "api_level": 2,
   "dial": {
     "enable": true,
     "x_offset": 0,
@@ -25,11 +26,11 @@
       "enable": true,
       "type": "date",
       "label": "%a %d",
-      "font_color": "#ffffff",
+      "font_color": "#dddddd",
       "align": "center",
       "font_size": 32,
       "x_offset": 80,
-      "y_offset": 113,
+      "y_offset": 63,
       "x_size": 80,
       "y_size": 40
     },
@@ -37,13 +38,13 @@
       "enable": true,
       "type": "battery_percent",
       "label": "%3d%%",
-      "font_color": "#ffffff",
+      "font_color": "#dddddd",
       "font_size": 12,
       "align": "center",
       "x_offset": 100,
-      "y_offset": 180,
+      "y_offset": 160,
       "x_size": 60,
       "y_size": 40
-    },
+    }
   ]
 }
