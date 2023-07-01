@@ -1,6 +1,12 @@
 [
 	{
-		"name":"Armani 5 Connect",
+		"name":"Lilygo 5",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
+	},
+	{
+		"name":"Armani Connect",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/armanicon",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/armanicon/watchface.tar.gz"
@@ -34,12 +40,6 @@
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/fossil",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/fossil/watchface.tar.gz"
-	},
-	{
-		"name":"Lilygo",
-		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo",
-		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
-		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
 	},
 	{
 		"name":"Mini Cooper",
