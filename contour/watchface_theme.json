@@ -1,5 +1,5 @@
 {
-  "api_level": 2,
+  "api_level": 3,
   "dial": {
     "enable": true,
     "x_offset": 0,
@@ -26,9 +26,10 @@
       "enable": true,
       "type": "date",
       "label": "%a %d",
+      "font": "007watch18.font",
       "font_color": "#dddddd",
       "align": "center",
-      "font_size": 28,
+      "hide_interval": 0,
       "x_offset": 80,
       "y_offset": 65,
       "x_size": 80,
@@ -40,7 +41,7 @@
       "label": "%3d%%",
       "font": "Ubuntu",
       "font_color": "#dddddd",
-      "font_size": 12,
+      "font_size": 22,
       "align": "center",
       "x_offset": 90,
       "y_offset": 135,
