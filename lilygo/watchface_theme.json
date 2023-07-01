@@ -89,28 +89,28 @@
       {
         "enable": true,
         "type": "date",
-        "label": "%C%y %b",
+        "label": "%b %C%y",
         "font": "LCD",
         "font_color": "#304e65",
         "font_size": 32,
         "align": "center",
         "hide_interval": 0,
         "x_offset": 47,
-        "y_offset": 180,
+        "y_offset": 165,
         "x_size": 155,
         "y_size": 40
       },
       {
         "enable": true,
         "type": "battery_percent",
-        "label": "%03d%%",
+        "label": "%3d%%",
         "font": "LCD",
         "font_color": "#304e65",
         "font_size": 32,
         "align": "center",
         "hide_interval": 0,
-        "x_offset": 47,
-        "y_offset": 50,
+        "x_offset": 50,
+        "y_offset": 60,
         "x_size": 55,
         "y_size": 40
       }
