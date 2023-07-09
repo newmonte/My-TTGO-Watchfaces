@@ -1,9 +1,21 @@
 [
 	{
-		"name":"Lilygo 14",
+		"name":"Lilygo 15",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
+	},
+	{
+		"name":"Victorinox",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
+	},
+	{
+		"name":"Contour",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour/watchface.tar.gz"
 	},
 	{
 		"name":"Armani Connect",
@@ -30,12 +42,6 @@
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/cartier/watchface.tar.gz"
 	},
 	{
-		"name":"Contour",
-		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour",
-		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
-		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour/watchface.tar.gz"
-	},
-	{
 		"name":"Fossil",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/fossil",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
@@ -58,12 +64,6 @@
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/tagheuer",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/tagheuer/watchface.tar.gz"
-	},
-	{
-		"name":"Victorinox",
-		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox",
-		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
-		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
 	},
 	{
 		"name":"only indexes with backgound",
