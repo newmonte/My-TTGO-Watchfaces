@@ -1,5 +1,5 @@
 {
-  "api_level": 3,
+  "api_level": 2,
   "dial": {
     "enable": true,
     "x_offset": 0,
