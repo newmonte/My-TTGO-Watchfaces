@@ -35,7 +35,9 @@ This is a fork of original Sharandac TTGO TWatch Clock Faces
 
 You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) 
 
-An overview of all [sharandac watchfaces repository](https://sharandac.github.io/My-TTGO-Watchfaces/). 
+An overview of all [sharandac watchfaces repository](https://sharandac.github.io/My-TTGO-Watchfaces/).
+
+Watch faces documentation for [watchface_theme.json](https://github.com/sharandac/My-TTGO-Watch/blob/master/WATCHFACE.md) 
 
 Another good place to find more watch faces by looking on GitHub for [PG-TTGO-Watchfaces](https://github.com/PGNetHun/PG-TTGO-Watchfaces).
 
