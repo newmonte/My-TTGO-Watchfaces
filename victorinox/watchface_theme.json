@@ -60,10 +60,10 @@
       "rotation_start": 0,
       "rotation_x_origin": 10,
       "rotation_y_origin": 60,
-      "x_offset": 107,
+      "x_offset": 108,
       "y_offset": 102,
-      "x_size": 20,
-      "y_size": 120
+      "x_size": 60,
+      "y_size": 60
     }
   ]
 }
