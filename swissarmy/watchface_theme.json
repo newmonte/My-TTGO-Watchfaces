@@ -62,7 +62,7 @@
       "y_size": 40
     },
     {
-      "enable": battery_percent > 80,
+      "enable": "battery_percent > 80",
       "type": "text",
       "label": "\uf127",
       "font": "Montserrat",
