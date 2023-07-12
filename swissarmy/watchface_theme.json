@@ -50,7 +50,7 @@
       "y_size": 13
     },
     {
-      "enable": false,
+      "enable": true,
       "type": "battery_percent",
       "label": "%3d%%",
       "font_color": "#000000",
@@ -64,13 +64,13 @@
     {
       "enable": "battery_percent > 80",
       "type": "text",
-      "label": "\uf127",
+      "label": "\uf124",
       "font": "Montserrat",
       "font_color": "#000000",
-      "font_size": 12,
+      "font_size": 14,
       "align": "center",
       "x_offset": 90,
-      "y_offset": 135,
+      "y_offset": 155,
       "x_size": 60,
       "y_size": 40
     }
