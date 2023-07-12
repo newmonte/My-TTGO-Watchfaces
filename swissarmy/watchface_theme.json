@@ -1,4 +1,5 @@
 {
+  "api_level": 3,
   "dial": {
     "enable": true,
     "x_offset": 0,
@@ -32,8 +33,8 @@
   },
   "sec_shadow": {
     "enable": true,
-    "x_offset": 2,
-    "y_offset": 2
+    "x_offset": 4,
+    "y_offset": 4
   },
   "label": [
     {
@@ -47,6 +48,19 @@
       "y_offset": 113,
       "x_size": 20,
       "y_size": 13
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%3d%%",
+      "font_color": "#dddddd",
+      "font_size": 12,
+      "align": "center",
+      "x_offset": 90,
+      "y_offset": 135,
+      "x_size": 60,
+      "y_size": 40
     }
+
   ]
 }
