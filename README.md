@@ -6,7 +6,6 @@ To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
-[![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![Bell Ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
@@ -15,6 +14,8 @@ To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://
 [![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
+[![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
+[![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
 
 # Original My-TTGO-Watchfaces
 
