@@ -64,7 +64,7 @@
     {
       "enable": "battery_percent > 80",
       "type": "text",
-      "label": "\uf127",
+      "label": "\uf124",
       "font": "Montserrat",
       "font_color": "#000000",
       "font_size": 16,
