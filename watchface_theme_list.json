@@ -6,12 +6,6 @@
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo/watchface.tar.gz"
 	},
 	{
-		"name":"Victorinox",
-		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox",
-		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
-		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
-	},
-	{
 		"name":"Contour",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/contour",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
@@ -34,6 +28,12 @@
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/bellross",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/bellross/watchface.tar.gz"
+	},
+	{
+		"name":"Breitling",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/breitling",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/breitling/watchface.tar.gz"
 	},
 	{
 		"name":"Cartier",
@@ -70,6 +70,12 @@
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/tagheuer",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
 		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/tagheuer/watchface.tar.gz"
+	},
+	{
+		"name":"Victorinox",
+		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox",
+		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
+		"download":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/victorinox/watchface.tar.gz"
 	},
 	{
 		"name":"only indexes with backgound",

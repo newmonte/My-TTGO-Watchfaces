@@ -16,6 +16,7 @@ To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
+[![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
 
 # Original My-TTGO-Watchfaces
 
