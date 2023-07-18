@@ -12,8 +12,8 @@ Watchfaces develoment status
 - Bell & Ross Ceramic Heritage: under dev
 - Fossil ME3127 : ok
 - Mini Copper : ok
-- Victorinox Swiss Army : ok
 - Tag Heuer Carrera: ok
+- Victorinox Swiss Army : ok
 - Victorinox Dimmed : ok
 - Cartier Tank : ok
 - Piaget Antik : ok
@@ -27,8 +27,8 @@ Watchfaces develoment status
 [![Bell Ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
 [![Fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
 [![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
-[![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
+[![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
