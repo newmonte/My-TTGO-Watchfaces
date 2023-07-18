@@ -10,14 +10,14 @@ Watchfaces develoment status
 - Armani Connect : ok
 - Armani Exchange : ok
 - Bell & Ross Ceramic Heritage: under dev
+- Breitling B50 : under dev
 - Fossil ME3127 : ok
 - Mini Copper : ok
-- Tag Heuer Carrera: ok
+- Tag Heuer Carrera: under dev
 - Victorinox Swiss Army : ok
 - Victorinox Dimmed : ok
 - Cartier Tank : ok
 - Piaget Antik : ok
-- Breitling B50 : under dev
 <br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
@@ -25,6 +25,7 @@ Watchfaces develoment status
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![Bell Ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
 [![Fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
 [![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
 [![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
@@ -32,7 +33,6 @@ Watchfaces develoment status
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
-[![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
 
 # Original My-TTGO-Watchfaces
 
