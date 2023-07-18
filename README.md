@@ -6,8 +6,8 @@ To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://
 
 Watchfaces develoment status
 - Lyligo : ok
-- Rado : ok
 - Countour Apple : ok
+- Rado : ok
 - Armani Connect : ok
 - Armani Exchange : ok
 - Bell & Ross Ceramic Heritage: under dev
