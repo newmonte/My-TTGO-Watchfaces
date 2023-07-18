@@ -5,19 +5,20 @@ Here you can find some finish watchface packages for [My-TTGO-Watch](https://git
 To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) firmware on your TTGO T-Watch.
 
 Watchfaces develoment status
-- Lyligo : Ok
-- Countour : Ok
-- Armani Connect : Ok
-- Armani Exchange : Ok
-- Bell & Ross : under dev
-- Fossil : Ok
-- Mini Copper : Ok
-- Swiss Army : Ok
-- Tag Heuer : Ok
-- Victorinox : Ok
-- Cartier : Ok
-- Piaget : Ok
-- Breitling : under dev
+- Lyligo : ok
+- Countour Apple : ok
+- Armani Connect : ok
+- Armani Exchange : ok
+- Bell & Ross Ceramic Heritage: under dev
+- Fossil ME3127 : ok
+- Mini Copper : ok
+- Victorinox Swiss Army : ok
+- Tag Heuer Carrera: ok
+- Victorinox Dimmed : ok
+- Cartier Tank : ok
+- Piaget Antik : ok
+- Breitling B50 : under dev
+
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
