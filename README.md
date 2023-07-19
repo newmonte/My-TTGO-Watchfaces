@@ -20,6 +20,17 @@ Watchfaces develoment status
 - Cartier Tank : ok
 - Piaget Antik : ok
 <br>
+- Abstract Paper - draft
+- Bulova Acutron II - draft
+- Feice Bauhaus - draft
+- Gucci Diamonds - draft
+- Hugo Boss - draft
+- Luis Vuitton - draft
+- Nomos Tetra Neomatik - draft
+- Radii - draft
+- Bill & Ross Raphale - draft
+- Tag Heur Monaco Gulf - draft
+<br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
@@ -35,6 +46,9 @@ Watchfaces develoment status
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
+
+<br>
+
 
 # Original My-TTGO-Watchfaces
 
