@@ -48,9 +48,10 @@ Watchfaces develoment status
 - Luis Vuitton : draft
 - Nomos Tetra Neomatik : draft
 - Radii : draft
-- Bill & Ross Raphale : draft
+- Bell & Ross Raphale : draft
 - Tag Heur Monaco Gulf : draft
 
+<br>
 
 # Other repositories
 
