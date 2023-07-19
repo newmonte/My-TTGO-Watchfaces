@@ -19,8 +19,8 @@ Watchfaces develoment status
 - Victorinox Dimmed : ok
 - Cartier Tank : ok
 - Piaget Antik : ok
+- Abstract Paper : ok
 <br>
-- Abstract Paper - draft
 - Bulova Acutron II - draft
 - Feice Bauhaus - draft
 - Gucci Diamonds - draft
@@ -46,6 +46,7 @@ Watchfaces develoment status
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
+[![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
 
 <br>
 
