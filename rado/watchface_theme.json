@@ -44,7 +44,7 @@
       "font_color": "#ef7921",
       "align": "center",
       "font_size": 16,
-      "x_offset": 205,
+      "x_offset": 198,
       "y_offset": 113,
       "x_size": 20,
       "y_size": 13
@@ -53,7 +53,7 @@
       "enable": true,
       "type": "battery_percent",
       "label": "%3d%%",
-      "font_color": "#000000",
+      "font_color": "#aaaaaa",
       "font_size": 12,
       "align": "center",
       "x_offset": 90,
