@@ -21,15 +21,15 @@ Watchfaces develoment status
 - Piaget Antik : ok
 - Abstract Paper : ok
 <br>
-- Bulova Acutron II - draft
-- Feice Bauhaus - draft
-- Gucci Diamonds - draft
-- Hugo Boss - draft
-- Luis Vuitton - draft
-- Nomos Tetra Neomatik - draft
-- Radii - draft
-- Bill & Ross Raphale - draft
-- Tag Heur Monaco Gulf - draft
+- Bulova Acutron II : draft
+- Feice Bauhaus : draft
+- Gucci Diamonds : draft
+- Hugo Boss : draft
+- Luis Vuitton : draft
+- Nomos Tetra Neomatik : draft
+- Radii : draft
+- Bill & Ross Raphale : draft
+- Tag Heur Monaco Gulf : draft
 <br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
@@ -50,27 +50,13 @@ Watchfaces develoment status
 
 <br>
 
-
-# Original My-TTGO-Watchfaces
-
-This is a fork of original Sharandac TTGO TWatch Clock Faces
-
-[![black](black/watchface_theme_prev.png)](black/watchface.tar.gz)
-[![casio](casio/watchface_theme_prev.png)](casio/watchface.tar.gz)
-[![hal9000](hal9000/watchface_theme_prev.png)](hal9000/watchface.tar.gz)
-[![klingon](klingon/watchface_theme_prev.png)](klingon/watchface.tar.gz)
-[![led](led/watchface_theme_prev.png)](led/watchface.tar.gz)
-[![rainbow clock](rainbow/watchface_theme_prev.png)](rainbow/watchface.tar.gz)
-[![star trek clock](startrek/watchface_theme_prev.png)](startrek/watchface.tar.gz)
-[![swiss clock](swiss/watchface_theme_prev.png)](swiss/watchface.tar.gz)
-[![undone clock](undone/watchface_theme_prev.png)](undone/watchface.tar.gz)
-
-
 # Other repositories
 
-You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) 
+The original [ Sharandac My-TTGO-Watchfaces](https://github.com/sharandac/My-TTGO-Watchfaces) for TTGO TWatch Clock. 
 
 An overview of all [sharandac watchfaces repository](https://sharandac.github.io/My-TTGO-Watchfaces/).
+
+You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) 
 
 Watch faces documentation for [watchface_theme.json](https://github.com/sharandac/My-TTGO-Watch/blob/master/WATCHFACE.md) 
 
