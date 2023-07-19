@@ -45,11 +45,20 @@ Watchfaces develoment status
 - Feice Bauhaus : draft
 - Gucci Diamonds : draft
 - Hugo Boss : draft
-- Luis Vuitton : draft
+- Louis Vuitton : draft
 - Nomos Tetra Neomatik : draft
 - Radii : draft
 - Bell & Ross Raphale : draft
 - Tag Heur Monaco Gulf : draft
+
+[![bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
+[![feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
+[![gucci](gucci/watchface_theme_prev.png)](gucci/watchface.tar.gz)
+[![hugoboss](huboboss/watchface_theme_prev.png)](hugoboss/watchface.tar.gz)
+[![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
+[![nomos](nomos/watchface_theme_prev.png)](nomos/watchface.tar.gz)
+[![raphale](raphale/watchface_theme_prev.png)](raphale/watchface.tar.gz)
+[![tagmonaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 
 <br>
 
