@@ -51,6 +51,7 @@ Watchfaces develoment status
 - Bell & Ross Raphale : draft
 - Tag Heuer Monaco Gulf : draft
 
+<br>
 [![bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
 [![feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
 [![gucci](gucci/watchface_theme_prev.png)](gucci/watchface.tar.gz)
