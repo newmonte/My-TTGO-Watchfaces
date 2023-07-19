@@ -18,15 +18,6 @@ Watchfaces develoment status
 - Cartier Tank : ok
 - Piaget Antik : ok
 - Abstract Paper : ok
-- Bulova Acutron II : draft
-- Feice Bauhaus : draft
-- Gucci Diamonds : draft
-- Hugo Boss : draft
-- Luis Vuitton : draft
-- Nomos Tetra Neomatik : draft
-- Radii : draft
-- Bill & Ross Raphale : draft
-- Tag Heur Monaco Gulf : draft
 
 <br>
 
@@ -47,6 +38,19 @@ Watchfaces develoment status
 [![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
 
 <br>
+
+# Planned new watchfaces
+
+- Bulova Acutron II : draft
+- Feice Bauhaus : draft
+- Gucci Diamonds : draft
+- Hugo Boss : draft
+- Luis Vuitton : draft
+- Nomos Tetra Neomatik : draft
+- Radii : draft
+- Bill & Ross Raphale : draft
+- Tag Heur Monaco Gulf : draft
+
 
 # Other repositories
 
