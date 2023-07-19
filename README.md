@@ -1,7 +1,5 @@
 # Here are some new faces for TTGO T-Watch
 
-Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
-
 To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) firmware on your TTGO T-Watch.
 
 Watchfaces develoment status
@@ -20,7 +18,6 @@ Watchfaces develoment status
 - Cartier Tank : ok
 - Piaget Antik : ok
 - Abstract Paper : ok
-<br>
 - Bulova Acutron II : draft
 - Feice Bauhaus : draft
 - Gucci Diamonds : draft
@@ -30,6 +27,7 @@ Watchfaces develoment status
 - Radii : draft
 - Bill & Ross Raphale : draft
 - Tag Heur Monaco Gulf : draft
+
 <br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
