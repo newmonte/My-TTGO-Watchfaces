@@ -49,7 +49,7 @@ Watchfaces develoment status
 - Nomos Tetra Neomatik : draft
 - Radii : draft
 - Bell & Ross Raphale : draft
-- Tag Heur Monaco Gulf : draft
+- Tag Heuer Monaco Gulf : draft
 
 [![bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
 [![feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
