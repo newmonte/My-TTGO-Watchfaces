@@ -38,7 +38,7 @@
   },
   "label": [
     {
-      "enable": true,
+      "enable": false,
       "type": "date",
       "label": "%d",
       "font_color": "#000000",
@@ -53,11 +53,11 @@
       "enable": true,
       "type": "battery_percent",
       "label": "%3d%%",
-      "font_color": "#000000",
+      "font_color": "#8b8b8b",
       "font_size": 12,
       "align": "center",
-      "x_offset": 90,
-      "y_offset": 155,
+      "x_offset": 10,
+      "y_offset": 210,
       "x_size": 60,
       "y_size": 40
     }
