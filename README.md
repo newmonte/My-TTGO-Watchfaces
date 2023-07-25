@@ -60,6 +60,7 @@ Watchfaces develoment status
 [![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
 [![louisvuittonr](louisvuittonr/watchface_theme_prev.png)](louisvuittonr/watchface.tar.gz)
 [![nomos](nomos/watchface_theme_prev.png)](nomos/watchface.tar.gz)
+[![radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![raphale](raphale/watchface_theme_prev.png)](raphale/watchface.tar.gz)
 [![tagmonaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 
