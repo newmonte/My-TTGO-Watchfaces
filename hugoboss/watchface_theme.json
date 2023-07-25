@@ -23,18 +23,18 @@
   },
   "hour_shadow": {
     "enable": true,
-    "x_offset": 2,
-    "y_offset": 2
-  },
-  "min_shadow": {
-    "enable": true,
     "x_offset": 3,
     "y_offset": 3
   },
-  "sec_shadow": {
+  "min_shadow": {
     "enable": true,
     "x_offset": 4,
     "y_offset": 4
+  },
+  "sec_shadow": {
+    "enable": true,
+    "x_offset": 5,
+    "y_offset": 5
   },
   "label": [
     {
@@ -56,7 +56,7 @@
       "font_color": "#8b8b8b",
       "font_size": 12,
       "align": "center",
-      "x_offset": 10,
+      "x_offset": 2,
       "y_offset": 210,
       "x_size": 60,
       "y_size": 40
