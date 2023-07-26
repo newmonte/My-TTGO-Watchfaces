@@ -19,7 +19,7 @@
   "sec": {
     "enable": true,
     "x_offset": 0,
-    "y_offset": 0
+    "y_offset": 48
   },
   "hour_shadow": {
     "enable": true,
@@ -34,7 +34,7 @@
   "sec_shadow": {
     "enable": true,
     "x_offset": 4,
-    "y_offset": 4
+    "y_offset": 52
   },
   "label": [
     {
@@ -44,13 +44,13 @@
       "font_color": "#000000",
       "align": "center",
       "font_size": 16,
-      "x_offset": 205,
+      "x_offset": 170,
       "y_offset": 113,
       "x_size": 20,
       "y_size": 13
     },
     {
-      "enable": true,
+      "enable": false,
       "type": "battery_percent",
       "label": "%3d%%",
       "font_color": "#000000",
