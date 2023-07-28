@@ -76,9 +76,7 @@
       "y_offset": 50,
       "x_size": 80,
       "y_size": 80
-    }
-  ],
-  "image": [
+    },
     {
       "enable": true,
       "type": "battery_percent",
