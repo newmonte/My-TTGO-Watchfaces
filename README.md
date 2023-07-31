@@ -41,15 +41,15 @@ Watchfaces develoment status
 
 # Planned new watchfaces
 
-- Bulova Acutron II : draft
-- Feice Bauhaus : draft
-- Gucci Diamonds : draft
-- Hugo Boss : draft
-- Louis Vuitton : draft
-- Nomos Tetra Neomatik : draft
+- Bulova Acutron II : ok
+- Feice Bauhaus : ok
+- Gucci Diamonds : ok
+- Hugo Boss : ok
+- Louis Vuitton : ok
+- Nomos Tetra Neomatik : ok
 - Radii : draft
-- Bell & Ross Raphale : draft
-- Tag Heuer Monaco Gulf : draft
+- Bell & Ross Raphale : ok
+- Tag Heuer Monaco Gulf : ok
 
 <br>
 
