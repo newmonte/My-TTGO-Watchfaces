@@ -72,8 +72,8 @@
       "rotation_start": 0,
       "rotation_x_origin": 30,
       "rotation_y_origin": 30,
-      "x_offset": 85,
-      "y_offset": 130,
+      "x_offset": 87,
+      "y_offset": 132,
       "x_size": 60,
       "y_size": 60
     },
@@ -86,8 +86,8 @@
       "rotation_start": 0,
       "rotation_x_origin": 30,
       "rotation_y_origin": 30,
-      "x_offset": 30,
-      "y_offset": 50,
+      "x_offset": 50,
+      "y_offset": 60,
       "x_size": 60,
       "y_size": 60
     }
