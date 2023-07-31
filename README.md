@@ -10,14 +10,12 @@ Watchfaces develoment status
 - Armani Exchange : ok
 - Bell & Ross Ceramic Heritage: ok
 - Bell & Ross Raphale : ok
-- Breitling B50 : under dev
 - Bulova Acutron II : ok
 - Fossil ME3127 : ok
 - Hugo Boss : ok
 - Gucci Diamonds : ok
 - Louis Vuitton : ok
 - Mini Copper : ok
-- Tag Heuer Carrera: under dev
 - Tag Heuer Monaco Gulf : ok
 - Victorinox Swiss Army : ok
 - Victorinox Dimmed : ok
@@ -36,7 +34,6 @@ Watchfaces develoment status
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![Bell Ross Heritage](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
 [![Bell Ross Raphale](raphale/watchface_theme_prev.png)](raphale/watchface.tar.gz)
-[![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
 [![Bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
 [![Fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
 [![Gucci](gucci/watchface_theme_prev.png)](gucci/watchface.tar.gz)
@@ -44,7 +41,6 @@ Watchfaces develoment status
 [![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
 [![louisvuittonr](louisvuittonr/watchface_theme_prev.png)](louisvuittonr/watchface.tar.gz)
 [![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
-[![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 [![Tag Heuer Monaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 [![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
@@ -59,10 +55,14 @@ Watchfaces develoment status
 # Planned new watchfaces
 
 - Radii : draft
+- Breitling B50 : under dev
+- Tag Heuer Carrera: under dev
 
 <br>
 
 [![radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
+[![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
+[![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 
 <br>
 
