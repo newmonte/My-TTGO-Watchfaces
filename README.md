@@ -8,15 +8,23 @@ Watchfaces develoment status
 - Rado : ok
 - Armani Connect : ok
 - Armani Exchange : ok
-- Bell & Ross Ceramic Heritage: under dev
+- Bell & Ross Ceramic Heritage: ok
+- Bell & Ross Raphale : ok
 - Breitling B50 : under dev
+- Bulova Acutron II : ok
 - Fossil ME3127 : ok
+- Hugo Boss : ok
+- Gucci Diamonds : ok
+- Louis Vuitton : ok
 - Mini Copper : ok
 - Tag Heuer Carrera: under dev
+- Tag Heuer Monaco Gulf : ok
 - Victorinox Swiss Army : ok
 - Victorinox Dimmed : ok
 - Cartier Tank : ok
 - Piaget Antik : ok
+- Feice Bauhaus : ok
+- Nomos Tetra Neomatik : ok
 - Abstract Paper : ok
 
 <br>
@@ -26,43 +34,35 @@ Watchfaces develoment status
 [![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
-[![Bell Ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![Bell Ross Heritage](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![Bell Ross Raphale](raphale/watchface_theme_prev.png)](raphale/watchface.tar.gz)
 [![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
+[![Bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
 [![Fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
+[![Gucci](gucci/watchface_theme_prev.png)](gucci/watchface.tar.gz)
+[![Hugo Boss](hugoboss/watchface_theme_prev.png)](hugoboss/watchface.tar.gz)
+[![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
+[![louisvuittonr](louisvuittonr/watchface_theme_prev.png)](louisvuittonr/watchface.tar.gz)
 [![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
 [![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
+[![Tag Heuer Monaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 [![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
 [![Cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
+[![Feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
+[![Nomos](nomos/watchface_theme_prev.png)](nomos/watchface.tar.gz)
 [![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
 
 <br>
 
 # Planned new watchfaces
 
-- Bulova Acutron II : ok
-- Feice Bauhaus : ok
-- Gucci Diamonds : ok
-- Hugo Boss : ok
-- Louis Vuitton : ok
-- Nomos Tetra Neomatik : ok
 - Radii : draft
-- Bell & Ross Raphale : ok
-- Tag Heuer Monaco Gulf : ok
 
 <br>
 
-[![bulova](bulova/watchface_theme_prev.png)](bulova/watchface.tar.gz)
-[![feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
-[![gucci](gucci/watchface_theme_prev.png)](gucci/watchface.tar.gz)
-[![hugoboss](hugoboss/watchface_theme_prev.png)](hugoboss/watchface.tar.gz)
-[![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
-[![louisvuittonr](louisvuittonr/watchface_theme_prev.png)](louisvuittonr/watchface.tar.gz)
-[![nomos](nomos/watchface_theme_prev.png)](nomos/watchface.tar.gz)
 [![radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
-[![raphale](raphale/watchface_theme_prev.png)](raphale/watchface.tar.gz)
-[![tagmonaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 
 <br>
 
