@@ -1,4 +1,5 @@
 {
+  "api_level": 2,
   "dial": {
     "enable": true,
     "x_offset": 0,
@@ -22,18 +23,18 @@
   },
   "hour_shadow": {
     "enable": true,
-    "x_offset": 0,
-    "y_offset": 0
+    "x_offset": 3,
+    "y_offset": 3
   },
   "min_shadow": {
     "enable": true,
-    "x_offset": 0,
-    "y_offset": 0
+    "x_offset": 4,
+    "y_offset": 4
   },
   "sec_shadow": {
     "enable": true,
-    "x_offset": 0,
-    "y_offset": 0
+    "x_offset": 5,
+    "y_offset": 5
   },
   "label": [
     {
@@ -47,6 +48,36 @@
       "y_offset": 165,
       "x_size": 20,
       "y_size": 13
+    }
+  ],
+  "image": [
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "file": "bat.png",
+      "hide_interval": 0,
+      "rotation_range": 359,
+      "rotation_start": 0,
+      "rotation_x_origin": 40,
+      "rotation_y_origin": 40,
+      "x_offset": 130,
+      "y_offset": 80,
+      "x_size": 80,
+      "y_size": 80
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "file": "chrono.png",
+      "hide_interval": 0,
+      "rotation_range": 359,
+      "rotation_start": 0,
+      "rotation_x_origin": 40,
+      "rotation_y_origin": 40,
+      "x_offset": 25,
+      "y_offset": 80,
+      "x_size": 80,
+      "y_size": 80
     }
   ]
 }
