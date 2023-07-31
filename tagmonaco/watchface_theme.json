@@ -44,13 +44,13 @@
       "font_color": "#000000",
       "align": "center",
       "font_size": 16,
-      "x_offset": 113,
-      "y_offset": 200,
+      "x_offset": 70,
+      "y_offset": 155,
       "x_size": 120,
       "y_size": 120
     },
     {
-      "enable": true,
+      "enable": false,
       "type": "battery_percent",
       "label": "%3d%%",
       "font_color": "#000000",
@@ -72,7 +72,7 @@
       "rotation_start": 0,
       "rotation_x_origin": 40,
       "rotation_y_origin": 40,
-      "x_offset": 130,
+      "x_offset": 115,
       "y_offset": 80,
       "x_size": 80,
       "y_size": 80
@@ -86,7 +86,7 @@
       "rotation_start": 0,
       "rotation_x_origin": 40,
       "rotation_y_origin": 40,
-      "x_offset": 30,
+      "x_offset": 45,
       "y_offset": 80,
       "x_size": 80,
       "y_size": 80
