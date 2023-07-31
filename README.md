@@ -6,6 +6,7 @@ Watchfaces develoment status
 - Lyligo : ok
 - Countour Apple : ok
 - Rado : ok
+- Abstract Paper : ok
 - Armani Connect : ok
 - Armani Exchange : ok
 - Bell & Ross Ceramic Heritage: ok
@@ -23,13 +24,13 @@ Watchfaces develoment status
 - Piaget Antik : ok
 - Feice Bauhaus : ok
 - Nomos Tetra Neomatik : ok
-- Abstract Paper : ok
 
 <br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
 [![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
+[![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![Bell Ross Heritage](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
@@ -48,7 +49,6 @@ Watchfaces develoment status
 [![Piaget](piaget/watchface_theme_prev.png)](piaget/watchface.tar.gz)
 [![Feice](feice/watchface_theme_prev.png)](feice/watchface.tar.gz)
 [![Nomos](nomos/watchface_theme_prev.png)](nomos/watchface.tar.gz)
-[![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
 
 <br>
 
