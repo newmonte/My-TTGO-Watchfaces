@@ -67,14 +67,14 @@
     },
     {
       "enable": true,
-      "type": "battery_percent",
+      "type": "time_sec",
       "file": "chrono.png",
       "hide_interval": 0,
       "rotation_range": 359,
       "rotation_start": 0,
       "rotation_x_origin": 40,
       "rotation_y_origin": 40,
-      "x_offset": 25,
+      "x_offset": 27,
       "y_offset": 80,
       "x_size": 80,
       "y_size": 80
