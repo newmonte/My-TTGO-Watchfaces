@@ -43,7 +43,7 @@
       "font_color": "#FFFFFF",
       "align": "center",
       "font_size": 48,
-      "x_offset": 59,
+      "x_offset": 55,
       "y_offset": 93,
       "x_size": 128,
       "y_size": 50
@@ -52,11 +52,10 @@
       "enable": true,
       "type": "date",
       "label": "%M",
-      
       "font_color": "#000000",
       "align": "center",
-      "font_size": 22,
-      "x_offset": 113,
+      "font_size": 28,
+      "x_offset": 125,
       "y_offset": 95,
       "x_size": 130,
       "y_size": 50
@@ -68,7 +67,7 @@
       "font_color": "#000000",
       "font_size": 22,
       "align": "center",
-      "x_offset": 15,
+      "x_offset": 5,
       "y_offset": 103,
       "x_size": 32,
       "y_size": 32
@@ -80,7 +79,7 @@
       "font_color": "#FFFFFF",
       "font_size": 22,
       "align": "center",
-      "x_offset": 40,
+      "x_offset": 25,
       "y_offset": 103,
       "x_size": 32,
       "y_size": 32
