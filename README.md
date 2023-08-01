@@ -6,6 +6,7 @@ Watchfaces develoment status
 - Lyligo : ok
 - Countour Apple : ok
 - Abstract Paper : ok
+- Radii : ok
 - Rado : ok
 - Armani Connect : ok
 - Armani Exchange : ok
@@ -30,6 +31,7 @@ Watchfaces develoment status
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
 [![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
+[![Radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
@@ -54,13 +56,11 @@ Watchfaces develoment status
 
 # Planned new watchfaces
 
-- Radii : draft
 - Breitling B50 : under dev
 - Tag Heuer Carrera: under dev
 
 <br>
 
-[![radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![Breitling](breitling/watchface_theme_prev.png)](breitling/watchface.tar.gz)
 [![Tag Heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 
