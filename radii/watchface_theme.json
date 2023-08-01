@@ -55,7 +55,7 @@
       "font": "Monserrat",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 28,
+      "font_size": 22,
       "x_offset": 120,
       "y_offset": 95,
       "x_size": 130,
@@ -80,7 +80,7 @@
       "label": "%d",
       "font": "Monserrat",
       "font_color": "#FFFFFF",
-      "font_size": 28,
+      "font_size": 22,
       "align": "center",
       "x_offset": 27,
       "y_offset": 100,
@@ -104,7 +104,7 @@
       "y_size": 240
     },
     {
-      "enable": false,
+      "enable": true,
       "type": "image",
       "file": "battery2.png",
       "hide_interval": 0,
