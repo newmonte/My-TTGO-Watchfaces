@@ -44,8 +44,8 @@
       "align": "center",
       "font_size": 48,
       "x_offset": 60,
-      "y_offset": 95,
-      "x_size": 130,
+      "y_offset": 93,
+      "x_size": 128,
       "y_size": 50
     },
     {
@@ -63,10 +63,9 @@
     {
       "enable": true,
       "type": "date",
-      "label": "%S",
-      "font": "LCD",
+      "label": "%a",
       "font_color": "#000000",
-      "font_size": 12,
+      "font_size": 22,
       "align": "center",
       "x_offset": 15,
       "y_offset": 100,
