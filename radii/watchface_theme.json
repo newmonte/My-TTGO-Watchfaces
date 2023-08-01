@@ -76,7 +76,7 @@
     {
       "enable": true,
       "type": "date",
-      "label": "%D",
+      "label": "%d",
       "font_color": "#FFFFFF",
       "font_size": 22,
       "align": "center",
