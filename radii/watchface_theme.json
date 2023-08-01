@@ -37,7 +37,6 @@
   },
   "label": [
     {
-    {
       "enable": true,
       "type": "date",
       "label": "%H",
@@ -61,18 +60,18 @@
       "x_size": 130,
       "y_size": 50
     },
-      {
-        "enable": true,
-        "type": "date",
-        "label": "%S",
-        "font": "LCD",
-        "font_color": "#FFFFFF",
-        "font_size": 32,
-        "align": "center",
-        "x_offset": 15,
-        "y_offset": 100,
-        "x_size": 32,
-        "y_size": 32
-      }
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%S",
+      "font": "LCD",
+      "font_color": "#FFFFFF",
+      "font_size": 32,
+      "align": "center",
+      "x_offset": 15,
+      "y_offset": 100,
+      "x_size": 32,
+      "y_size": 32
+    }
   ]
 }
