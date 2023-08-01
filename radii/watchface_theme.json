@@ -55,8 +55,8 @@
       "font": "Monserrat",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 28,
-      "x_offset": 125,
+      "font_size": 32,
+      "x_offset": 120,
       "y_offset": 95,
       "x_size": 130,
       "y_size": 50
@@ -69,8 +69,8 @@
       "font_color": "#000000",
       "font_size": 22,
       "align": "center",
-      "x_offset": 5,
-      "y_offset": 103,
+      "x_offset": 2,
+      "y_offset": 102,
       "x_size": 32,
       "y_size": 32
     },
@@ -80,10 +80,10 @@
       "label": "%d",
       "font": "Monserrat",
       "font_color": "#FFFFFF",
-      "font_size": 28,
+      "font_size": 32,
       "align": "center",
       "x_offset": 25,
-      "y_offset": 103,
+      "y_offset": 102,
       "x_size": 32,
       "y_size": 32
     }
@@ -91,7 +91,7 @@
   "image": [
     {
       "enable": true,
-      "type": "battery_percent",
+      "type": "100 - battery_percent",
       "file": "battery.png",
       "hide_interval": 0,
       "rotation_range": 90,
