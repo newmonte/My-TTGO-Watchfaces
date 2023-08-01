@@ -70,9 +70,9 @@
       "font_size": 22,
       "align": "center",
       "x_offset": 1,
-      "y_offset": 95,
-      "x_size": 32,
-      "y_size": 32
+      "y_offset": 100,
+      "x_size": 40,
+      "y_size": 40
     },
     {
       "enable": true,
@@ -83,15 +83,15 @@
       "font_size": 22,
       "align": "center",
       "x_offset": 27,
-      "y_offset": 95,
-      "x_size": 32,
-      "y_size": 32
+      "y_offset": 100,
+      "x_size": 40,
+      "y_size": 40
     }
   ],
   "image": [
     {
       "enable": true,
-      "type": "100 - battery_percent",
+      "type": "battery_percent",
       "file": "battery.png",
       "hide_interval": 0,
       "rotation_range": 90,
