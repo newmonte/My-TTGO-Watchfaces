@@ -7,7 +7,6 @@ Watchfaces develoment status
 - Radii : ok
 - Countour Apple : ok
 - Abstract Paper : ok
-- Rado : ok
 - Armani Connect : ok
 - Armani Exchange : ok
 - Bell & Ross Ceramic Heritage: ok
@@ -18,6 +17,7 @@ Watchfaces develoment status
 - Gucci Diamonds : ok
 - Louis Vuitton : ok
 - Mini Copper : ok
+- Rado : ok
 - Tag Heuer Monaco Gulf : ok
 - Victorinox Swiss Army : ok
 - Victorinox Dimmed : ok
@@ -32,7 +32,6 @@ Watchfaces develoment status
 [![Radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
 [![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
-[![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
 [![Bell Ross Heritage](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
@@ -44,6 +43,7 @@ Watchfaces develoment status
 [![louisvuitton](louisvuitton/watchface_theme_prev.png)](louisvuitton/watchface.tar.gz)
 [![louisvuittonr](louisvuittonr/watchface_theme_prev.png)](louisvuittonr/watchface.tar.gz)
 [![Mini Cooper](minicooper/watchface_theme_prev.png)](minicooper/watchface.tar.gz)
+[![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
 [![Tag Heuer Monaco](tagmonaco/watchface_theme_prev.png)](tagmonaco/watchface.tar.gz)
 [![Swiss Army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![Victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
