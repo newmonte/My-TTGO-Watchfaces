@@ -77,7 +77,7 @@
       "type": "date",
       "label": "%d",
       "font_color": "#FFFFFF",
-      "font_size": 22,
+      "font_size": 28,
       "align": "center",
       "x_offset": 25,
       "y_offset": 103,
