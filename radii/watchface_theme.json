@@ -55,7 +55,7 @@
       "font": "Monserrat",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 32,
+      "font_size": 28,
       "x_offset": 120,
       "y_offset": 95,
       "x_size": 130,
@@ -69,8 +69,8 @@
       "font_color": "#000000",
       "font_size": 22,
       "align": "center",
-      "x_offset": 2,
-      "y_offset": 102,
+      "x_offset": 1,
+      "y_offset": 100,
       "x_size": 32,
       "y_size": 32
     },
@@ -80,10 +80,10 @@
       "label": "%d",
       "font": "Monserrat",
       "font_color": "#FFFFFF",
-      "font_size": 32,
+      "font_size": 28,
       "align": "center",
-      "x_offset": 25,
-      "y_offset": 102,
+      "x_offset": 27,
+      "y_offset": 100,
       "x_size": 32,
       "y_size": 32
     }
