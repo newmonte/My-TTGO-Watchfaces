@@ -4,9 +4,9 @@ To use this watchface, you must fisrt install [Sharandac/My-TTGO-Watch](https://
 
 Watchfaces develoment status
 - Lyligo : ok
+- Radii : ok
 - Countour Apple : ok
 - Abstract Paper : ok
-- Radii : ok
 - Rado : ok
 - Armani Connect : ok
 - Armani Exchange : ok
@@ -29,9 +29,9 @@ Watchfaces develoment status
 <br>
 
 [![Lyligo](lilygo/watchface_theme_prev.png)](lilygo/watchface.tar.gz)
+[![Radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![Countour](contour/watchface_theme_prev.png)](contour/watchface.tar.gz)
 [![AbstractPaper](abstractpaper/watchface_theme_prev.png)](abstractpaper/watchface.tar.gz)
-[![Radii](radii/watchface_theme_prev.png)](radii/watchface.tar.gz)
 [![Rado](rado/watchface_theme_prev.png)](rado/watchface.tar.gz)
 [![Armani Connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![Armani Exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
