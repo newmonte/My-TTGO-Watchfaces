@@ -16,7 +16,7 @@
     "y_offset": 0
   },
   "sec": {
-    "enable": false,
+    "enable": true,
     "x_offset": 0,
     "y_offset": 0
   },
