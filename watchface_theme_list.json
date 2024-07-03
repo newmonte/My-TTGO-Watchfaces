@@ -1,5 +1,11 @@
 [
 	{
+		"name":"square black",
+		"url":"https://raw.githubusercontent.com/newmonte/2020-twatchfaces/main/",
+		"home_url":"https://github.com/newmonte/2020-twatchfaces/main",
+		"download":"https://raw.githubusercontent.com/newmonte/2020-twatchfaces/main/square/watchface.tar.gz"
+	},
+	{
 		"name":"Lilygo 57",
 		"url":"https://raw.githubusercontent.com/ggcvirtual/My-TTGO-Watchfaces/main/lilygo",
 		"home_url":"https://github.com/ggcvirtual/My-TTGO-Watchfaces/",
